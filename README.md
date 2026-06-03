@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="meuBanner.svg" alt="Banner Greyke Hélio" width="100%" />
+</p>
+
 <h1 align="center">Prazer, Greyke Hélio 👋</h1>
 
 <p align="center">
