@@ -68,7 +68,7 @@ Abaixo você pode acompanhar um resumo automático das minhas atividades de dese
 <h3 align="center">🤝 Conecte-se Comigo</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/greyke-h%C3%A9lio-20327a370/" target="_blank">
+  <a href="https://www.linkedin.com/in/helio-ghb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:helio_hk@hotmail.com">
